@@ -2,8 +2,8 @@
 // Class Course #: 3033 
 // Date: 02/16/2025
 
-// DESCRIPTION: <a sentence about what the purpose of this program is>
-// The purpose of the program is to covert a total amount of dollar into coins. 
+// DESCRIPTION: <The purpose of the program is to covert a total amount of dollar into coins. >
+
 
 public class Main
 {
@@ -15,14 +15,14 @@ public class Main
     int numQuarters = 0;
     int numDimes = 0; 
     int numNickels = 0;
-    int numPennies = 0; 
+    /*int numPennies = 0;*/
 
     double initialAmount2 = 3.80;
     int centsRemaining2 = 0; 
     int numQuarters2 = 0;
     int numDimes2 = 0; 
     int numNickels2 = 0;
-    int numPennies2 = 0;
+    /*int numPennies2 = 0;*/
 
     //CALCULATION SECTION
     centsRemaining = (int) (100 * initialAmount); 
